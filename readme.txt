@@ -209,6 +209,3 @@ Here's an example: (taken from the SVM-Rank website). Note that everything after
 3 qid:3 1:1 2:1 3:0 4:0.3 5:0 # 3B 
 4 qid:3 1:1 2:0 3:0 4:0.4 5:1 # 3C 
 1 qid:3 1:0 2:1 3:1 4:0.5 5:0 # 3D
-
-
-test of TeamCity (Linux)
